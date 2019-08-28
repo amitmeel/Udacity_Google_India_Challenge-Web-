@@ -1,0 +1,31 @@
+/* add your CSS here */
+#animal_trading_card{
+  border:4px ridge #fff;
+  width:350px;
+  box-sizing: border-box;
+  box-shadow: 4px 4px rgba(0, 0, 0, 0.19);
+  background-color: #fff;
+  text-align: justify;
+  font-family: serif Times New Roman  Times;
+}
+.name{
+  font-size: 150%;
+  text-align: left;
+}
+.boarders{
+  border:4px ridge #fff;
+	width: 295px;
+  box-sizing: centre;
+  padding: 20px;
+}
+.dots{
+  list-style-type:none
+}
+.char{
+  font-weight: bold;
+}
+.imagewidth
+{
+  width: 300px;
+  padding: 20px;
+} 

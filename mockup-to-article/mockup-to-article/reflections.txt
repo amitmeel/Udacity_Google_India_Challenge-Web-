@@ -1,0 +1,19 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+
+
+* What new skills have you learned?
+
+  I've learned HTML that is the 1st step towards my front end developer skill. 
+
+* What has been easy?
+
+  The way mentor teaches and provides appropriate links to us, it's easy to understand everything till now.So for understanding the HTML, you guide us to making project and even provide the live help of mentors. So it's easy to understand.
+ 
+* What has been difficult?
+
+  Its very defficult to indent the code if you are not a programmer. So we need more practice of this.Also there are lots of elements that work in similar fashion(like section,div,article) so sometimes im unable to understand those elements.
+  
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+  I'm learning through your videos, references etc.Whenever I have a problem I'm going back to reference that you provide, read the problem again and think about it and then trying to solve it.
